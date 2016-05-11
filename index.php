@@ -9,3 +9,8 @@
     require_once('content/'.$pagina. '.php');
     require_once('templates/footer.php');
 
+//cambios lo:
+// hola lluis, te faltaba cerrar el php ;)
+
+
+?>
